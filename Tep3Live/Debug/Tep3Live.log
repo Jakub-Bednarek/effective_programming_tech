@@ -1,0 +1,7 @@
+﻿  DirTree.cpp
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\DirTree.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\DirTree.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\DirTree.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\DirTree.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\DirTree.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+  Tep3Live.vcxproj -> C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\Debug\Tep3Live.exe

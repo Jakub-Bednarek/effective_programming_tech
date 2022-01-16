@@ -1,0 +1,4 @@
+﻿  CTable.cpp
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\C++\tep1\tep1\tep1\CTable.cpp(129,23): error C2679: binary '==': no operator found which takes a right-hand operand of type 'CTable' (or there is no acceptable conversion)
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\C++\tep1\tep1\tep1\CTable.cpp(129,23): message : could be 'built-in C++ operator==(const CTable *, const CTable *)'
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\C++\tep1\tep1\tep1\CTable.cpp(129,23): message : while trying to match the argument list '(const CTable *, CTable)'

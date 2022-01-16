@@ -1,0 +1,12 @@
+﻿  CTreeStatic.cpp
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeStatic.cpp(97,39): warning C4018: '>': signed/unsigned mismatch
+  CTreeDynamic.cpp
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeDynamic.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeDynamic.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeDynamic.cpp(92,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeDynamic.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeDynamic.cpp(151,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Tep3\CTreeDynamic.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+  Tep3.cpp
+  Generating Code...
+  Tep3.vcxproj -> C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3\Debug\Tep3.exe

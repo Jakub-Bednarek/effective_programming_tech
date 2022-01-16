@@ -1,0 +1,6 @@
+﻿  DirTree.cpp
+C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\DirTree.cpp(166,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FileNode.cpp
+  Tep3Live.cpp
+  Generating Code...
+  Tep3Live.vcxproj -> C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\Uczelnia\sem3\tep\Tep3Live\x64\Debug\Tep3Live.exe
